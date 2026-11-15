@@ -1,4 +1,6 @@
 # Claude Code Workflows
+
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server for Claude Code and AI assistants to search 2,200+ North American live-music venues, load-in accessibility details, and booking contacts.
 Practical workflows, configurations, and companion guides from my journey becoming an AI-native founder, for founders and software engineers building faster and smarter with AI.
 
 Workflows are covered in detail with tutorials and demos on [Patrick Ellis' YouTube channel](https://www.youtube.com/@PatrickOakleyEllis).
